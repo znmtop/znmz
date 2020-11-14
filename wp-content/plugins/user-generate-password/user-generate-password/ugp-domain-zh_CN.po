@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-14 15:09+0800\n"
+"PO-Revision-Date: 2012-06-14 15:12+0800\n"
+"Last-Translator: sola <e.solagirl@gmail.com>\n"
+"Language-Team: Sola <e.solagirl@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: user-generate-password.php:24
+msgid "Password"
+msgstr "密码"
+
+#: user-generate-password.php:29
+msgid "Repeat password"
+msgstr "重复密码"
+
+#: user-generate-password.php:34
+msgid "Sorry, but we must check if you are human. What is the name of website you are registering for?"
+msgstr "很抱歉，为防止机器人注册，请填写<strong>本站名称</strong>，您可以在注册表单下方的返回网站链接中找到"
+
+#: user-generate-password.php:45
+msgid "<strong>ERROR</strong>: Passwords must match"
+msgstr "<strong>错误</strong>:两次输入的密码不匹配"
+
+#: user-generate-password.php:48
+msgid "<strong>ERROR</strong>: Passwords must be at least eight characters long"
+msgstr "<strong>错误</strong>:密码至少8个字符"
+
+#: user-generate-password.php:51
+msgid "<strong>ERROR</strong>: Your name is Bot? James Bot? Check bellow the form, there's a Back to [sitename] link."
+msgstr "<strong>错误</strong>: 为了证明您不是机器人，请填写本站名称进行验证，可以在表单下方的 “回到[网站名称]”链接中找到"
+
+#: user-generate-password.php:77
+msgid "If you leave password fields empty one will be generated for you. Password must be at least eight characters long."
+msgstr "如果不填写密码，系统会自动产生密码并通过电子邮件发送给您。密码长度至少8个字符。"
+
+#: user-generate-password.php:80
+msgid "Registration complete. Please sign in or check your e-mail."
+msgstr "您已经成功注册本站。请直接登录或者查收我们发送给你的电子邮件。"
+
